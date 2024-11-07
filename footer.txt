@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Some text
+=======
+Some text
+>>>>>>> ead0aba (add footer)
